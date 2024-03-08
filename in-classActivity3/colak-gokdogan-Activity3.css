@@ -1,0 +1,46 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+}
+
+.header {
+    display: flex;
+}
+
+.logo{
+	margin-right: 20px;
+}
+
+.animal_image{
+	float: left;
+	max-width: 250px;
+	margin : 10px;
+
+}
+
+.main-div{
+	display: flex;
+    flex-direction: row-reverse;
+}
+
+.right-side{
+	margin:0 auto;
+	text-align:center;
+	 width: 70%;
+	text-align: justify;
+
+}
+
+.head{
+	text-align: center;
+}
+
+.link{
+	display: flex;
+    justify-content: center;
+}
