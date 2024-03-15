@@ -7,7 +7,7 @@
     <meta name="description" content="CENG 311 Inclass Activity 1" />
 </head>
 <body>
-    <form action="activity4.php" method="GET">
+    <form action="ColakSubasi-activity4.php" method="GET">
         <p>sş</p>
         <table>
             <tr>
